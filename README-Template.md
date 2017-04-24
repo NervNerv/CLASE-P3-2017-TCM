@@ -1,14 +1,6 @@
-RAFA
-
-1
-2
-3
-
 # Project Title
 
-RAFA
-
-One Paragraph of project description goes here 43 43 
+One Paragraph of project description goes here
 
 ## Getting Started
 
