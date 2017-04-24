@@ -56,6 +56,8 @@ Give an example
 
 Explain what these tests test and why
 
+Debug.Log("pepe");
+
 ```
 Give an example
 ```
